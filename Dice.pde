@@ -49,10 +49,10 @@ num6++;
   text("Average: "+ num/dicenum, 0, 480);
   text("Total of 1: "+ num1, 0, 490);
   text("Total of 2: "+ num2, 0, 500);
-  text("Total of 3: "+ num3, 130, 470);
-  text("Total of 4: "+ num4, 130, 480);
-  text("Total of 5: "+ num5, 130, 490);
-  text("Total of 6: "+ num6, 130, 500);
+  text("Total of 3: "+ num3, 300, 470);
+  text("Total of 4: "+ num4, 300, 480);
+  text("Total of 5: "+ num5, 300, 490);
+  text("Total of 6: "+ num6, 300, 500);
   }
   void mousePressed()
   {
